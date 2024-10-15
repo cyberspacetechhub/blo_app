@@ -1,0 +1,90 @@
+2024-08-07	09:52:33	f263b120-fe5e-49b5-9fa4-5d82d2e659ca	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	10:00:59	0c65ac7a-845f-4636-80d6-5d0a09f84625	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	10:02:39	33328e00-e399-41dd-a4a8-4f3e0908f1c0	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	10:04:10	bf0bfd22-813c-4438-a974-109202fccf11	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	10:16:15	8654820d-0bbd-4e14-949e-be22360529cd	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	15:24:07	8e4194b2-f8ec-413a-bf96-b7a2935e4335	SyntaxError: Expected ',' or '}' after property value in JSON at position 25
+2024-08-07	15:24:15	b50826e5-2593-4e96-a53b-d7c1f1813a37	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	15:26:55	b33fb7bb-ff22-4efd-bb7d-6ef4e4f2e2c4	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	15:27:01	10ffee52-8fd9-43c2-b3b7-8bcb88e3b8aa	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	15:33:53	9fd838c8-89a9-4707-8427-e5a86e9ca1b4	ReferenceError: Cannot access 'newStudent' before initialization
+2024-08-07	15:34:28	d7160fd1-4f5d-4aea-9227-cfe1fc6a2e72	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	15:34:37	a380f824-ffa2-4047-9ab2-fac29f99232a	TypeError: Cannot read properties of undefined (reading 'id')
+2024-08-07	22:57:35	fd4d7c45-bc32-4620-a7a1-e2a7c69e4e64	SyntaxError: Expected ',' or '}' after property value in JSON at position 33
+2024-08-08	15:14:23	04c24f3a-9f38-471f-9545-978f2825c0b2	Error: Not allowed by CORS
+2024-08-08	15:14:23	8b89ea77-260a-466a-b49e-a5a5a6c683c9	Error: Not allowed by CORS
+2024-08-08	15:15:32	84e394d4-012c-4000-ae89-176fa4600d45	Error: Not allowed by CORS
+2024-08-08	15:15:45	92d54a0b-3fd3-453e-9f8c-7dd66f23e66f	Error: Not allowed by CORS
+2024-08-08	15:15:49	ab48949d-626b-4e10-ac17-cac49b9a7bd7	Error: Not allowed by CORS
+2024-08-08	15:15:54	03d3719f-31f6-4a59-b358-74bf64d16ad6	Error: Not allowed by CORS
+2024-08-08	15:36:29	ec3a564f-f4a3-470b-be8e-420874a31b15	ReferenceError: cookie is not defined
+2024-08-08	16:21:08	7b3a785b-d44f-4e1a-b3b5-9873d308a9be	Error: Not allowed by CORS
+2024-08-08	16:21:29	16f36d85-4fdb-4a78-a618-f95ea30335c2	Error: Not allowed by CORS
+2024-08-08	16:21:29	2954b49f-3bf9-47b1-9667-a17fc8f1d127	Error: Not allowed by CORS
+2024-08-08	16:21:31	a8a80451-6ce2-4a86-ad3e-da62a06470d0	Error: Not allowed by CORS
+2024-08-08	16:21:31	2f1aa8b3-5af1-4e6f-864e-c5b50617b756	Error: Not allowed by CORS
+2024-08-08	16:21:34	b32cf2f3-8b17-4496-9877-ed82d731ac74	Error: Not allowed by CORS
+2024-08-08	16:23:36	570aa664-2f68-4b4e-9bb5-aad8a9decce4	Error: Not allowed by CORS
+2024-08-08	16:23:40	65c966d2-2fae-4474-93ef-761dabc54f19	Error: Not allowed by CORS
+2024-08-08	16:24:24	b03c5d33-bdb5-450c-a670-8688316f5467	Error: Not allowed by CORS
+2024-08-08	16:24:26	b264cf86-12d1-4673-aff5-98fbb6ebca3c	Error: Not allowed by CORS
+2024-08-08	16:24:28	b4ecc951-1197-485f-b965-bef9d60791fc	Error: Not allowed by CORS
+2024-08-08	16:24:28	a571f0a6-fea1-4680-b925-5915f6afb3f8	Error: Not allowed by CORS
+2024-08-08	16:24:35	2d2042e7-67db-4d9f-a856-4ddcb6c4cd99	Error: Not allowed by CORS
+2024-08-08	16:24:39	bf16805e-6466-4de4-b7f2-6a1952fb47f9	Error: Not allowed by CORS
+2024-08-08	16:24:46	4e362540-f07d-4a42-8407-2ee4096588a4	Error: Not allowed by CORS
+2024-08-08	16:24:46	a2eddcc1-49ff-4e6a-91b1-f10f0dfccbe1	Error: Not allowed by CORS
+2024-08-08	16:24:59	e1fea690-ac7e-4e7d-9c1c-691213f0f88c	Error: Not allowed by CORS
+2024-08-08	16:24:59	7f0c091c-e7df-496b-8f58-efd95636ecf0	Error: Not allowed by CORS
+2024-08-08	16:25:38	429c9aa4-8b13-4186-a2c3-fcd68842c4cf	Error: Not allowed by CORS
+2024-08-08	16:25:38	b346e414-b3c8-4963-920a-6350960a1628	Error: Not allowed by CORS
+2024-08-08	16:44:53	baef6491-83bf-441a-b218-75ee95231058	Error: Not allowed by CORS
+2024-08-08	16:44:56	3022e232-3c57-4d57-8aa4-5c61e42994a9	Error: Not allowed by CORS
+2024-08-08	16:45:08	094bfec6-783a-491a-89b6-ff586160b593	Error: Not allowed by CORS
+2024-08-08	16:45:08	000dedb9-299c-45c5-9144-0b57c12fbf2c	Error: Not allowed by CORS
+2024-08-08	16:45:18	114bfac0-ac70-4554-a063-fb62e8563227	Error: Not allowed by CORS
+2024-08-08	16:45:51	1ec573c5-cf9b-4386-9600-b70804f1fd39	Error: Not allowed by CORS
+2024-08-08	16:47:03	8d6477fa-2725-4140-8290-2094d169179e	Error: Not allowed by CORS
+2024-08-09	04:33:23	d652a122-6e02-4e9a-a037-02e33aafbb53	ReferenceError: data is not defined
+2024-08-09	13:47:53	d2adae4b-d43d-49bc-863f-bb265ba2d4df	SyntaxError: Expected property name or '}' in JSON at position 4
+2024-08-11	01:10:18	9be08290-bcb4-4b7d-b96b-4a87ce5f1904	Error: Not allowed by CORS
+2024-08-11	01:10:31	cb9a7481-84ca-4755-9f1b-0515619b6e51	Error: Not allowed by CORS
+2024-08-11	01:10:31	2073852b-c28f-4bd0-918e-4aa3a08ccbaf	Error: Not allowed by CORS
+2024-08-11	01:11:04	f2713958-d7ff-44e0-be20-9cf4a0b316dd	Error: Not allowed by CORS
+2024-08-11	01:11:05	2c8ffec7-6edf-4ef4-a4c0-924a13fd2ee8	Error: Not allowed by CORS
+2024-08-11	01:11:14	b4845b85-f614-44be-bbbb-c0686860f427	Error: Not allowed by CORS
+2024-08-11	01:12:23	dc28af65-6daa-4f57-bd16-494e9e07bf26	Error: Not allowed by CORS
+2024-08-11	01:12:29	92312415-e1c2-4149-8979-10dabcdc9211	Error: Not allowed by CORS
+2024-08-11	01:12:34	72f20075-62bc-414c-85fa-2c8094325b4b	Error: Not allowed by CORS
+2024-08-11	01:12:37	dc86e215-7b7b-4e73-864f-53b06ff3d0af	Error: Not allowed by CORS
+2024-08-11	01:12:46	cae4d0f1-344d-4700-86b9-5a5d26595601	Error: Not allowed by CORS
+2024-08-11	01:12:50	11d975b6-dc02-4cd5-b6c8-75a00379b6c8	Error: Not allowed by CORS
+2024-08-11	01:12:50	0061ae3a-fcd5-4978-ac44-387e06f3392f	Error: Not allowed by CORS
+2024-08-11	01:15:20	6b1b178a-cddf-4ead-852b-5013c93fff28	Error: Not allowed by CORS
+2024-08-11	01:15:34	cef1a100-30a4-4c99-8fc0-d9d0b710353d	Error: Not allowed by CORS
+2024-08-11	01:15:38	7d784303-7c88-4015-b31f-5ad65ab4e6b9	Error: Not allowed by CORS
+2024-08-11	01:15:41	caa079fb-c804-4e7a-8849-2dc61e342c45	Error: Not allowed by CORS
+2024-08-11	01:17:49	14bb4ac3-ca56-4ef6-b648-3ba3b622b6ab	Error: Not allowed by CORS
+2024-08-11	01:17:49	fdf3a4bc-9733-4eae-a634-45b093e19236	Error: Not allowed by CORS
+2024-08-11	01:18:46	8743e3c3-8159-4e4f-bc3e-4f781d87338a	Error: Not allowed by CORS
+2024-08-11	01:18:46	2278a794-9d04-4f87-b35c-50eee8b59de3	Error: Not allowed by CORS
+2024-08-11	01:19:43	46263455-daeb-4d3d-99c9-3e18b1f8c6c3	Error: Not allowed by CORS
+2024-08-11	01:19:43	ab1cbc8b-4d83-4ec7-aef7-ba4aa1d975a2	Error: Not allowed by CORS
+2024-08-11	01:20:39	0941026a-6521-4a0a-8265-5465cfac3a98	Error: Not allowed by CORS
+2024-08-11	01:20:46	383a3597-5b31-46ef-8923-445b07b89e78	Error: Not allowed by CORS
+2024-08-11	01:20:46	95e327e9-cf5e-44f7-8a8c-c7df9cb276c2	Error: Not allowed by CORS
+2024-08-11	01:34:04	fe679273-92c0-4863-998f-e49d0b5d2869	ReferenceError: whiteList is not defined
+2024-08-11	01:34:04	82442721-2a11-4827-b25e-e0a25ca02a12	ReferenceError: whiteList is not defined
+2024-08-11	12:45:41	844442ff-6671-4e8a-8c3a-ad5be3ac05b2	ReferenceError: whiteList is not defined
+2024-08-11	12:45:41	2961688a-a0da-47d2-b3dd-6618ae486cea	ReferenceError: whiteList is not defined
+2024-08-17	01:46:07	7508c0c8-c5d7-454e-a148-8f333f5efd34	PayloadTooLargeError: request entity too large
+2024-08-17	01:47:57	8a93f0e2-6074-4d1c-aaf7-15fb0f3ca467	PayloadTooLargeError: request entity too large
+2024-08-17	02:10:23	4e4b1f6e-0858-4274-87d4-bc993d508be2	PayloadTooLargeError: request entity too large
+2024-08-21	18:21:07	0650d941-dd17-4a2b-86e4-989ea9c41a33	PayloadTooLargeError: request entity too large
+2024-08-21	18:25:08	f91f6c91-5463-40e9-9d6f-ff62444991de	PayloadTooLargeError: request entity too large
+2024-08-23	07:53:26	cd82c0a2-95ea-4a77-b04d-047be7835c61	SyntaxError: Expected double-quoted property name in JSON at position 59
+2024-08-26	15:47:55	8b769b31-0de4-4654-9c21-7dd40167e69b	TypeError: req.roles.map is not a function
+2024-08-26	15:49:33	af42bc56-1123-4528-998f-8c9919cd0596	TypeError: req.roles.some is not a function
+2024-08-26	15:51:35	4fada633-ce07-4655-91a3-c1cc85622a79	TypeError: req.roles.some is not a function
+2024-08-26	15:54:07	7352f92c-5ce5-48cf-b24d-5caf8f46c645	TypeError: req.roles.some is not a function
+2024-08-26	16:17:25	86332615-6119-4573-9c50-d4a6e948e304	TypeError: req.roles.map is not a function
